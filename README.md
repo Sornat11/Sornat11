@@ -16,7 +16,7 @@ I'm Jakub Sornat, a third-year student studying Computer Science and Economics. 
 
 ## Connect with Me
 
-🔗 [LinkedIn](https://www.linkedin.com/in/jakub-sornat-75b53925a/)
+🔗 [LinkedIn](https://www.linkedin.com/in/jakub-sornat/)
 
 
 ## Projects
