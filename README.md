@@ -23,7 +23,10 @@ I'm Jakub Sornat, a third-year student studying Computer Science and Economics. 
 
 🛠️ Check out some of my projects here on GitHub.
 
-1. [Project One](https://github.com/Sornat11/IO_Projekt)
+1. [Computational_Intelligence_Project](https://github.com/Sornat11/Computational_Intelligence_Project)
+2. [Multidimensional_scaling_project](https://github.com/Sornat11/Multidimensional_scaling_project)
+3. [Sport_Shop_Project](https://github.com/Sornat11/Sport_Shop_Project)
+
 
 ## Let's Code Together! 💻
 
