@@ -18,16 +18,6 @@ I'm Jakub Sornat, a first-year master degree student of Computer Science and Eco
 
 🔗 [LinkedIn](https://www.linkedin.com/in/jakub-sornat/)
 
-
-## Projects
-
-🛠️ Check out some of my projects here on GitHub.
-
-1. [Computational_Intelligence_Project](https://github.com/Sornat11/Computational_Intelligence_Project)
-2. [Multidimensional_scaling_project](https://github.com/Sornat11/Multidimensional_scaling_project)
-3. [Sport_Shop_Project](https://github.com/Sornat11/Sport_Shop_Project)
-
-
 ## Let's Code Together! 💻
 
 I'm always open to collaboration and learning from others. If you have any interesting projects or ideas, feel free to share them!
