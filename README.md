@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-I'm Jakub Sornat, a third-year student studying Computer Science and Economics. 🎓
+I'm Jakub Sornat, a first-year master degree student of Computer Science and Economics. 🎓
 
 ## About Me
 
